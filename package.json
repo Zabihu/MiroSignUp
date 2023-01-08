@@ -1,0 +1,20 @@
+{
+  "name": "miro-e2e",
+  "version": "1.0.0",
+  "description": "Miro E2E Tests Script Using Cypress, Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "cy:open"
+  },
+  "author": "Zabi",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "cypress": "^12.2.0"
+  },
+  "dependencies": {
+    "cypress-mailslurp": "^1.5.0",
+    "cypress-social-logins": "^1.14.0",
+    "ts-node": "^10.9.1"
+  }
+}
