@@ -18,7 +18,7 @@ npm i
 npx cypress open --env MAILSLURP_API_KEY=458f90ce8d787bcea4ce592a389fb3a6f45858647c88912b7e1dfea495009886
 
 ## Issues
-Issues faced during development are described in the test script 
+Issues faced during development are described within the test script 
 
 ## Authors
 Zabi
