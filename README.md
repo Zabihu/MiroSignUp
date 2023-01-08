@@ -6,7 +6,9 @@ Test Automation Script for Miro Signup Page using Cypress V12 test framework and
 Contains 3 spec files as mentioned below,
 
 signup-email - Sign with new email account created using Mailslurp - Working
+
 signup-plugin - Sign with social accounts using Cypress Social Plugin - Not working
+
 signup-social - Sign with social accounts - Not working
 
 ## Installation
