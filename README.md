@@ -11,7 +11,7 @@ signup-plugin - Sign with social accounts using Cypress Social Plugin - Not work
 
 signup-social - Sign with social accounts - Not working
 
-##Approach
+## Approach
 
 Signup via Direct Email :
 
