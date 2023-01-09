@@ -29,6 +29,7 @@ Current Implementation2 - Sign up with social accounts using Cypress Social Plug
 Future Implementation - 
 1. Get Client ID and Client Secret from Miro
 2. Generate Refresh Token and Access Token
+
 For more info, please refer below offical Cy doc
 https://docs.cypress.io/guides/end-to-end-testing/google-authentication
 
